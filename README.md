@@ -1,7 +1,2 @@
 
-# Project Title
-
-Simple overview of use/purpose.
-
-
-![snake gif](https://github.com/TUSHAR-PERSPECTIVE/TUSHAR-PERSPECTIVE/blob/output/github-contribution-grid-snake.gif)
+![mishmanners gaming room - gif of my actual gaming room setup](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
