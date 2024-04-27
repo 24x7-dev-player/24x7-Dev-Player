@@ -1,2 +1,1 @@
-
-![mishmanners gaming room - gif of my actual gaming room setup](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+<iframe src="https://giphy.com/embed/836HiJc7pgzy8iNXCn" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">via GIPHY</a></p>
