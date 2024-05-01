@@ -11,4 +11,5 @@
 | INeuron | Project Based Intern | Oct 2022 - Dec 2022 |
 | Nitrado | Data Analyst Intern | Dec 2023 - Jan 2024 |
 | Accenture | Data Analytics Job Simulation | Mar 2024 - Apr 2024 |
-| TATA| Data Analytics Job Simulation | Mar 2024 - MAR 2024 |
+| TATA | Data Analytics Job Simulation | Mar 2024 - Apr 2024 |
+| BCGX | Genai Job Simulation | Apr 2024 - Jun 2024 |
