@@ -1,7 +1,3 @@
-![GIF](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
-
-
-
 ## Work Experience
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
@@ -13,3 +9,4 @@
 | Accenture | Data Analytics Job Simulation | Mar 2024 - Apr 2024 |
 | TATA | Data Analytics Job Simulation | Mar 2024 - Apr 2024 |
 | BCGX | Genai Job Simulation | Apr 2024 - Jun 2024 |
+| Congnizant | AI Enginner Job Simulation | Apr 2024 - Jun 2024 |
