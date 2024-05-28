@@ -1,5 +1,5 @@
 
-![Dancing Dog]([https://i.imgur.com/dancing-dog.gif](https://giphy.com/embed/QHE5gWI0QjqF2))
+![Dancing Dog](https://giphy.com/embed/QHE5gWI0QjqF2)
 <div>
 	
 	class Me:
