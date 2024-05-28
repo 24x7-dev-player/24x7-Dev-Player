@@ -1,6 +1,5 @@
 
 <div>
-	<br><br>
 	
 	class Me:
 	    def __init__(self):    
