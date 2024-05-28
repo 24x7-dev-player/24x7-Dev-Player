@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; flex-flow: column wrap">
-		<img src="https://skillicons.dev/icons?i=aws,azure,nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/><br>
+		<img src="https://skillicons.dev/icons?i=aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cassandra,cloudflare,CSS,debian,discord,bots,django,docker,dynamodb,elasticsearch,fastapi,flask,gcp,git,githubactions"/><br>
 </div>
 
 
