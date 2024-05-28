@@ -1,5 +1,6 @@
 
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
+	
 	17 y.o. fullstack developer & designer born in Russia.
  	Fully self-taught, currently studying JS.
   	Freely speaking Russian & English.
