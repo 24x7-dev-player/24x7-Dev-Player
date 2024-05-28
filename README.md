@@ -2,9 +2,15 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<br><br>
 	
-	17 y.o. fullstack developer & designer born in Russia.
- 	Fully self-taught, currently studying JS.
-  	Freely speaking Russian & English.
+	class Me:
+	    def __init__(self):    
+	self.name, self.alias, self.profession, self.age = "Tushar Arora", "Danjin Master", "Data Scientist", 23       
+	
+	    def introduce(self):    
+	        print(f"Hi, I'm {self.name} ({self.alias}), a {self.profession}, aged {self.age}.")       
+	
+	Me().introduce()
+
 </div>
 
 
