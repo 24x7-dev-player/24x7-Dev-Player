@@ -1,3 +1,4 @@
+## Skills
 <div align="center">
     <div align="center">
         <img src="https://skillicons.dev/icons?i=aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cassandra,cloudflare,css,debian,discord,bots,django,docker,dynamodb,elasticsearch,fastapi,flask,gcp,git,githubactions,gitlab,grafana,heroku,html,js,jenkins,kafka,kali,kubernetes,linux,mysql,opencv,postman,prometheus,processing,py,pytorch,pycharm,r,sqlite,sublime,sklearn,tensorflow,terraform,ubuntu,vim,vscode,yarn"/>
@@ -5,24 +6,6 @@
 </div>
 
 
-
-<table>
-  <tr>
-    <th style="background-color:#f2f2f2">Header 1</th>
-    <th style="background-color:#f2f2f2">Header 2</th>
-    <th style="background-color:#f2f2f2">Header 3</th>
-  </tr>
-  <tr>
-    <td style="background-color:#ccffcc">Row 1, Col 1</td>
-    <td style="background-color:#ccffcc">Row 1, Col 2</td>
-    <td style="background-color:#ccffcc">Row 1, Col 3</td>
-  </tr>
-  <tr>
-    <td style="background-color:#ffcccc">Row 2, Col 1</td>
-    <td style="background-color:#ffcccc">Row 2, Col 2</td>
-    <td style="background-color:#ffcccc">Row 2, Col 3</td>
-  </tr>
-</table>
 
 
 
