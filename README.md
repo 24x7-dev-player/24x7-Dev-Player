@@ -1,4 +1,4 @@
-
+<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/><br>
 
 
 
