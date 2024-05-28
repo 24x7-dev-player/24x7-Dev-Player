@@ -8,51 +8,6 @@
 
 
 
-## Work Experience
-
-<style>
-    table {
-        margin: 0 auto;
-        border-collapse: collapse;
-        width: 80%;
-        border-radius: 10px;
-        overflow: hidden;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    th, td {
-        padding: 12px 15px;
-        text-align: left;
-        border-bottom: 1px solid #ddd;
-    }
-    th {
-        background-color: #f5f5f5;
-    }
-    tr:last-child td {
-        border-bottom: none;
-    }
-    tr:hover {
-        background-color: #f9f9f9;
-    }
-</style>
-
-<table>
-    <thead>
-        <tr>
-            <th>🏢 Company</th>
-            <th>💼 Role</th>
-            <th>⏰ Duration</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Feynn Labs</td>
-            <td>Machine Learning Engineer Intern</td>
-            <td>Feb 2022 - Apr 2022</td>
-        </tr>
-        <!-- Add more rows as needed -->
-    </tbody>
-</table>
-
 
 
 
