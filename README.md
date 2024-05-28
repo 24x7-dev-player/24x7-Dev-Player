@@ -4,7 +4,7 @@
 	<details>
 	<summary>Frameworks & Other stuff</summary>
 		<br>
-		<img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,mssql,numpy,pandas,scipy,matplotlib,seaborn,scikit,tensorflow,keras,pytorch,fastapi,flask,django,jupyter,plotly,git,docker,kubernetes,hadoop,spark,vscode,anaconda,mongodb,aws,gcp,azure" alt="Data Science Icons"/>
+		<img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,mssql,numpy,pandas,scipy,matplotlib,seaborn,scikit,tensorflow,keras,pytorch,fastapi,flask,django,jupyter,plotly,git,docker,kubernetes,hadoop,spark,vscode,anaconda,mongodb,aws,gcp,azure"/>
 
 		<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/><br>
 		<img src="https://skillicons.dev/icons?i=git,sqlite,fastapi" alt="Git, SQLite, FastAPI icons"/>
