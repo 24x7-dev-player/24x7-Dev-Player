@@ -1,9 +1,7 @@
 <div align="center" style="display: flex; flex-flow: column wrap">
-	<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/>
-	<br><br>
-	<details>
-	<summary>Frameworks & Other stuff</summary>
-		<br>
+<!-- 	<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/> -->
+<!-- 	<summary>Frameworks & Other stuff</summary> -->
+<!-- 		<br> -->
 		<img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,mssql,numpy,pandas,scipy,matplotlib,seaborn,scikit,tensorflow,keras,pytorch,fastapi,flask,django,jupyter,plotly,git,docker,kubernetes,hadoop,spark,vscode,anaconda,mongodb,aws,gcp,azure"/>
 
 		<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/><br>
