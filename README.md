@@ -1,4 +1,4 @@
-<div align="center" class="skills" style="display: flex; flex-flow: column wrap">
+<div align="center" style="display: flex; flex-flow: column wrap">
 	<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/>
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/><br><br>
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" width="50"/><a>&nbsp;</a> 
