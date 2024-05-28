@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; text-align: center; flex-flow: column wrap">
+<div align="center" style="display: flex; flex-flow: column wrap">
 		<img src="https://skillicons.dev/icons?i=aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cassandra,cloudflare,css,debian,discord,bots,django,docker,dynamodb,elasticsearch,fastapi,flask,gcp,git,githubactions,gitlab,grafana,heroku,html,js,jenkins,kafka,kali,kubernetes,linux,mysql,opencv,postman,prometheus,processing,py,pytorch,pycharm,r,sqlite,sublime,sklearn,tensorflow,terraform,ubuntu,vim,vscode,yarn"/><br>
 </div>
 
