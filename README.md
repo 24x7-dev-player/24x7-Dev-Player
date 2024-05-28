@@ -1,6 +1,5 @@
 
-<img src="https://giphy.com/embed/QHE5gWI0QjqF2" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen>
-</img/
+![Dancing Dog](https://i.imgur.com/dancing-dog.gif)
 <div>
 	
 	class Me:
