@@ -7,8 +7,6 @@
 		<img src="https://skillicons.dev/icons?i=nginx,git,sqlite,fastapi,cs,discord,redis,unity,godot,postgresql"/><br>
 		<img src="https://skillicons.dev/icons?i=git,sqlite,fastapi" alt="Git, SQLite, FastAPI icons"/>
 
-		<img src="https://skillicons.dev/icons?i=nodejs,replit,github"/><br>
-  		<a>And much more...</a>		
 	</details>
 	</details>
 </div>
