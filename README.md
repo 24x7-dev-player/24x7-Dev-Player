@@ -6,6 +6,23 @@
 
 
 
+<table>
+  <tr>
+    <th style="background-color:#f2f2f2">Header 1</th>
+    <th style="background-color:#f2f2f2">Header 2</th>
+    <th style="background-color:#f2f2f2">Header 3</th>
+  </tr>
+  <tr>
+    <td style="background-color:#ccffcc">Row 1, Col 1</td>
+    <td style="background-color:#ccffcc">Row 1, Col 2</td>
+    <td style="background-color:#ccffcc">Row 1, Col 3</td>
+  </tr>
+  <tr>
+    <td style="background-color:#ffcccc">Row 2, Col 1</td>
+    <td style="background-color:#ffcccc">Row 2, Col 2</td>
+    <td style="background-color:#ffcccc">Row 2, Col 3</td>
+  </tr>
+</table>
 
 
 
